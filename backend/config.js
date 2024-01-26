@@ -1,4 +1,4 @@
-export const PORT = 5555;
+export const PORT = 5556;
 
 export const mongoDBURL = 
-    'mongodb+srv://root:<password>@taskmanamentsystem.yp5a0so.mongodb.net/?retryWrites=true&w=majority'
+    'mongodb+srv://root:Aq123@taskmanamentsystem.yp5a0so.mongodb.net/?retryWrites=true&w=majority'
